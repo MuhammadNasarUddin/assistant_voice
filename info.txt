@@ -1,0 +1,573 @@
+KNOWLADGE BASE
+DIDX is a hybrid-modeled marketplace that enables DID sellers & buyers to buy and sell numbers in a manner, like never before. DIDX platform offers DID number sellers access to over 16,500 telecom companies in 170 countries who are interested in buying DID numbers. Buyers have access to millions of DID/DDI from 70+ nations.
+
+Watch Video
+
+ 
+
+WHO CAN USE DIDX
+DIDX PROMOTIONS
+DIDX FEATURES
+WHAT CAN DIDX DO FOR YOUR COMPANY
+DOCUMENTS REQUIREMENT
+DIDX FAQ’s
+ACCEPTABLE USE POLICY
+PRIVACY POLICY
+SYSTEM ABUSE FRAUDULENT USAGE OF NUMBERS
+MODE OF PAYMENTS
+BECOME A DIDX CONSULTANT
+DID INFO PER SPECIFIC COUNTRIES
+VENDOR RATING SYSTEM
+HOW TO BECOME AN AFFILIATE
+
+ 
+
+ 
+
+WHO CAN USE DIDX
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+DIDX is for VoIP companies, cellular operators, telecom companies, web and Internet 2.0 startups who leverage IP communications on a wholesale level, calling card operators, call centers, and broadband phone companies like Vonage.
+
+ 
+
+DIDX PROMOTIONS
+In order to see ongoing promotions, please visit our special offers page.
+
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+Pay after 6 months!!! – 1000 USA Numbers for Just $500
+
+DIDX wants to help your IP communications company jumpstart into success.
+
+Buy now, pay ater…
+
+Get 1000 USA numbers for just $500/month. You pay 6 months later. Let us help you promote your business and grow your business, and when you start to make money, you can pay us also.
+
+Isnt that a great offer?
+
+Login to your DIDX account. Create a ticket with “I want to order 1000 USA Numbers for $500 and I will pay after X Months.” Fill in the X with a number 1-6 reflecting how many months later you will pay.
+
+You can order 1000 to 50,000 numbers, with the same great bargain price and same credit limit.*
+
+Credit department has to approve your company’s credit line.
+
+ 
+
+WHAT CAN DIDX DO FOR YOUR COMPANY
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+DIDX is ready to empower you with the following:
+
+Via DIDx.net
+
+Get an instant interconnect with 16500+ companies from 170 nations without having to complete an interop and agreement with each one of them, one at a time.
+
+DIDX signs the agreement for you with each. You complete one agreement/interop with DIDX and purchase or sell numbers immediately.
+
+DIDx Buyers:
+
+DIDX makes available to you 17 million numbers on your website. After integrating with DIDX, you can show those 17 million numbers on your web site free of charge via API Software.
+
+You immediately become an Internet telephone service provider with a database of 17 million phone numbers from 70+ countries around the world. DIDX transforms the codec for you, so you can get the call in any CODEC you want.
+
+DIDX Sellers:
+
+We will do the customer service and sales on your behalf.
+
+You only need to concentrate on your DID service quality.
+
+Via DIDX you can list your idle stock not currently sold as available for sale to 16,500+ websites.
+
+No worries about charge backs and merchant service problems. We guarantee your payment for DID that are sold and working.
+
+Take advantage of our complimentary media and marketing tools to help the world know how great your company and its services are such as https://www.didx.net/podcast, the new DIDX iTunes channel and more. Contact sales@didx.net to schedule your free publicity for active DIDX members only.
+
+Last but not least, joining DIDX will make you a global player! Be sure to follow us on http://www.twitter.com/didx, join your compadres on http://www.facebook.com/home.php#!/group.php?gid=2386083700, and meet up at events that DIDX partners with at https://www.didx.net/events.
+
+For more Information please contact sales@didx.net
+
+ 
+
+DOCUMENTS REQUIREMENT
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+The DIDX service agreement you sign, in summary, states that you the DIDX member are responsible for adhering to the law.
+
+Since there is quite often no clear law with this new technology of “DID forwarding,” we encourage you to make sure that you have COMPLETE contact information of the person who you are selling the number to. At any time, a law enforcement agency may contact us requesting that information, and we will contact you for this information. You can do one of two things in these cases.
+
+1. Get the information from your end-user, and we forward it to the authorities.
+2. If the info is not provided the service for that DID will stop.
+
+DIDX is working on creative ways to gather this information, and making it available to law enforcement agencies in a manner that is most productive.
+
+Each country DID provider has different requirements for documentation.
+
+As of October 2017, in general the following requirements apply when purchasing a DID from these countries. The documents need to be scanned to care@didx.net or faxed to +1206 339 4203 begin_of_the_skype_highlighting              +1206 339 4203      end_of_the_skype_highlighting with the DIDX account number and telephone number listed, so we can make a correct match.
+
+Andorra
+Need Local Photo ID (National ID or Passport)
+Proof of address (e.g any utility bill) which verifies the local address from the same city as the number is from.
+If a number is ordered by a company please provide company registration certificate.
+ 
+
+China
+Name / Business Name
+Telephone Number
+Address
+What is the application for which DID numbers will be used?
+Also an address in China
+Clear copy of passport preferably China-issued photo ID.
+ 
+
+Bahrain
+Service Restriction:
+1. No use for any political TV programs for/again the government of Bahrain.
+2. No use for any type of porn programs, including TV, Magazin, or any other means.
+3. Bahrain DIDs, strictly must not be advertised on any Satelite TVs for any purposes.
+4. The DIDs could not be used as VOIP call back services or VOIP access numbers.
+ 
+
+End user information includes:
+1. A valid ID card or a copy of passport.
+2. Full name of the end user
+3. Full postal Address of the end user
+4. Email address and contact number of the end user
+ 
+
+Iran
+Service Restriction:
+1. No use for any political TV programs for/again the government of Iran.
+2. No use for any type of porn programs, including TV, Magazin, or any other means.
+3. Iran DIDs, strictly must not be advertised on any Satelite TVs for any purposes.
+4. The DIDs could not be used as VOIP call back services or VOIP access numbers.
+ 
+
+End user information includes:
+1. A valid ID card or a copy of passport.
+2. Full name of the end user
+3. Full postal Address of the end user
+4. Email address and contact number of the end user
+ 
+
+Saudi Arabia
+Saudi Local Documents (Iqama/National ID)
+Contact Number
+ 
+
+France
+Need Local Photo ID (National ID or Passport)
+Proof of address (e.g any utility bill) which verifies the local address from the same city as the number is from.
+If a number is ordered by a company please provide KBIS
+ 
+
+Germany:
+Need Local Photo ID (National ID or Passport)
+Proof of address (e.g any utility bill) which verifies the local address from the same city as the number is from.
+If a number is ordered by a company please provide company registration certificate.
+ 
+
+Ireland
+ID Card copy
+Name
+Local address
+Local City
+Local Post Code
+ 
+
+Pakistan
+A local NIC number (national ID number)OR a Passport scanned copy of the end user from any country.
+For Companies please send an LOI on company’s Letter Head for number provisioning.
+ 
+
+India
+Number can only be assigned to Companys for conference calling purpose only.
+Company should send an LOI on company’s Letter Head for number provisioning.
+Company shall provide its registration registration certificate.
+ 
+
+Singapore
+Address and the Passport copy for the end user; Passport copy can be from anywhere
+ 
+
+Hong Kong
+2 Forms of Identity of the subscriber (e.g. passport and driver license)
+2 forms of Proof of Address e.g. electricity bill, phone bill Payment Records, else the numbers will be disconnected from DIDx.
+ 
+
+Malaysia
+Provide us the valid End user Document that confirms the user has a valid address in the city where the DID was ordered.
+For companies, we need a certificate of registration.
+For end user, we need a copy of both sides of identity card.
+In addition, a second official document is required which confirms the address (e.g. phone bill or utility bill).
+To make sure the DID can’t be used until documents are approved from our side the DIDs are currently disabled. Once the documents are approved DID will be activated immediately
+ 
+
+Switzerland
+Valid address for Switzerland and Passport copy for end user; Passport copy can be from anywhere.
+ 
+
+Turkey
+Need Local Photo ID (National ID or Passport)
+Proof of address (e.g any utility bill) which verifies the local address from the same city as the number is from.
+ 
+
+Japan
+I order to buy DIDs of Tokyo,Japan need to have local Japanese passport of the end user.
+ 
+
+United Kingdom
+Background of 087x and 070x UK DID purchased on DIDX.
+(All DIDX buyers of 087x and 070x UK DID purchased on DIDX are subject to compliance with the following),
+
+This statement sets out the obligations of the DIDX Buyer when purchasing 0871, 0872, and 0873 United Kingdom number ranges (collectively referred to as 087x numbers) and 070 United Kingdom number ranges.
+
+Where number ranges are opened up in the future on 087x and designated by Ofcom as Controlled Premium Rate Services and are to be regulated by PhonepayPlus. references in this statement to 087x numbers shall apply to those number ranges. For avoidance of doubt, the statement will not apply to the 0870 number range.
+
+I. DIDX Buyer Responsibilities when buying 087x numbers
+
+When the DIDX Buyer purchases 087x numbers on DIDXCHANGE, the DIDX Buyer is responsible for compliance with the Code of Practice and Statements of Expectation listed at http://www.phonepayplus.org.uk/output/Code-and-Help.aspx.
+
+DIDX Buyer must warn users that any data collected may be passed to PhonepayPlus in the purchase and use of 087x numbers. The services and all promotional materials related to services that use 087x numbers must not result in any unreasonable invasion of privacy, induce an unacceptable sense of fear, anxiety or distress; encourage or incite any person to engage in unreasonably dangerous practices or to use harmful substances, induce or promote racial disharmony, cause grave or widespread offense; debase, degrade, or demean; or promote or facilitate prostitution.
+
+DIDX Buyer must ensure that all users of premium rate services are fully informed, clearly and straightforwardly, of all cost of using the service prior to incurring any charge. Written pricing must be easily legible, prominent, horizontal, and presented in a way that does not require close examination. Spoken pricing must be easily audible and discernible.
+
+All operational and instructional messages necessary to obtain access to a service and provided separately to the service must be available free of charge to a user.
+
+The identity and contact details of the DIDX Buyer must be obvious and clearly stated to the user. The customer service phone number must be clearly stated and easily available to the user.
+
+II. DIDX Buyer Responsibilities when buying 070X numbers
+
+a. Any 070 numbers allocated to the Service Provider DIDX Buyer will not be used for Premium Rate Services.
+
+b. The Service Provider DIDX Buyer stated in this agreement will not promote 070 numbers as a way of making international calls.
+
+c. 070 numbers will ONLY be used for number translation that enables End-Users?
+to be called or otherwise contacted using a single Personal Telephone Number
+and to receive those calls or other communications at almost any telephone
+number, including mobiles.
+
+d. The Service Provider DIDX Buyer will ensure that all services will be designed such that the primary beneficiary of the service is the user who is receiving telephone calls.
+
+e. Service Providers DIDX Buyer using Personal Numbers will not share any revenue
+obtained from promoting a Personal Number service with End-Users.
+
+f. The Service Provider DIDX Buyer will ensure that if they sub-allocate 070
+numbers to another Service Provider, they will receive a similar undertaking of the
+above from them.
+
+ 
+
+ 
+
+VENDOR ID	PREFIX	DOCUMENTS REQUIRED BY THE VENDOR
+1. 700118	1305	Photo ID and address of end user.
+2. 700734	ALL	Please write NIC numbers and upload copies of Pakistan National Identity Card Coipes
+3. 700814	35321,35351,35353,35371	Local Address Required and Photo ID required
+4. 700851	ALL	Passport Copy
+5. 701210	ALL	Proof of address in Greece, can be any utility bill
+6. 701332	331,35722,35723,35726	Please upload proof of local address and end-user identification (company or individual)
+7. 701371	852	Please upload clear photocopy of end user current passport
+8. 701542	ALL	Need Photo ID, Local address from the same city as the number is from, proof of address (e.g any utility bill).If a company please provide KBIS
+9. 701939	ALL	Passport Copy
+10.702214	ALL	Valid address for Switzerland and Local Passport copy for end user
+11.702882	ALL	Shanghai local Address, Customer ID copy if personal use. If it is business use, copy of the business license
+12.702919	852	Please provide passport and local address
+13.703353	ALL	Passport Copy of the End User
+14.704549	ALL	Signed copy of passport
+15.704574	4930,4969,4989	Along with the local address vendor needs to know the details of the end user company as this will be Checked against the register of companies. In the case of the end user,being an individual, they will have to state their date of birth
+16.704593	ALL	Please upload End User Pakistan National Identity Card
+17.705069	603,612,617,618	Please submit photocopy of End Users Valid passport Id Card and a copy of utility bill for proof of name
+18.705069	65	Following Text Documents are also needed along with the copy passport and Utility bill: Name Home and Office Phone number Work and Home Address Purpose of Using this number
+19.705069	ALL	End user Passport and Address
+20.705853	ALL	Passport Copy
+21.707560	331	Need Local French address & copy of photo ID of end user
+22.707787	852	Please provide passport and local address
+23.707819	ALL	Please provide local address which has to be from the same city, where the number is from and Valid ID Card / Passport Copy
+24.710662	ALL	Copy of passport and house registration / business registration
+25.710758	ALL	Customer Name, Address, Number, and Passport copies
+26. 711741	ALL	End user Passport and address
+27. 711773	ALL	Please provider Passport copies from any where and End user contact deails
+28. 711780	ALL	Upload copy of NIC (Front and back)which needs to be from Pakistan only
+29. 713822	ALL	Customer Name, Address, Number, and Passport copies
+30. 716334	9242,9255,9261	Local Lahore National Identity Card with local lahore address for Lahore DID,and the same document requirement for Multan and Gujranwalla
+ 
+
+ 
+
+ACCEPTABLE USE POLICY
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+Acceptable Use Policy
+SUPER TECHNOLOGIES, INC. ACCEPTABLE USE POLICY
+Updated: January 1, 2008
+Super Technologies, Inc. (“STec”) has created this Acceptable Use Policy (the “Policy”) so you will understand when and under what circumstances we may suspend or terminate your use of your services (the “Service”) and access to Super Technologies’ service related Internet sites, which sites contain information and data available via your computer and/or a device (the “STec Sites”). By using our Service or accessing the STec Sites, you consent to the acceptable use practices described in this Policy, as modified from time-to-time by us.
+
+Content Prohibitions 
+Our goal is for our subscribers to have a pleasurable experience each time they access the STec Sites or use our Service. Therefore, you may only use our Service for lawful purposes and in a manner that does not interfere with other subscribers or our systems. To assure this, we reserve the right, but are not obligated, to suspend or terminate your access to the STec Sites and/or your use of the Service at any time, if we determine in our sole discretion that your conduct or behavior on the STec Sites or our Service involves or causes:
+
+Content Harmful or Offensive to Third-Parties: Do not upload, download, post, distribute, publish, or otherwise transmit (collectively, “Disclose”) any message, data, information, image, text, termination minutes, DID or other material (collectively, “Content”) that is unlawful, libelous, defamatory, slanderous, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory, or otherwise harmful or offensive to third parties;
+
+Content Harmful to Other Systems: Do not Disclose harmful Content, including without limitation, viruses, Trojan horses, worms, time bombs, zombies, cancelbots, or any other computer programming routines that may damage, interfere with, surreptitiously intercept or expropriate any system, program, data, or personal information, via our Service;
+
+Impersonation: Do not impersonate any person or entity or otherwise misrepresent your affiliation with a person or entity;
+
+Infringing Content: Do not Disclose any Content that may infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of any party. Infringement may result from the unauthorized copying and posting or distributing graphics, DID, termination minutes, pictures, photographs, logos, software, articles, music, or videos. By posting any Content, you represent and warrant that you have the lawful right to distribute and reproduce such Content;
+
+Interference: Do not do anything to interfere with other users of Services;
+
+Unapproved Promotions or Advertising of Goods or Services: Without our prior written permission, do not Disclose on the Sites any unsolicited promotions of goods or services, commercial solicitation or any advertising, promotional materials, or any other solicitation of other users for goods or services except in those areas (e.g., Tiki support sites) that are designated for such purpose;
+
+Unlawful Content: Do not Disclose any Content that would constitute or encourage a criminal offense, violate the rights of any party, or that would otherwise create liability or violate any local, state, national, or international law.
+
+Network Usage
+Violations of system or network security are prohibited, and may result in criminal and civil liability. STec may investigate incidents involving such violations and may involve and will cooperate with law enforcement if a criminal violation is suspected. Examples of system or network security violations include, without limitation, the following:
+
+Avoiding System Restrictions: Using manual or electronic means to avoid any use limitations placed on the Services.
+
+Falsification of Origin: Forging any TCP-IP packet header, e-mail header, or any part of a message header. This prohibition does not include the use of aliases or anonymous re-mailers.
+
+Hacking: Unauthorized access to or use of data, systems, or networks, including any attempt to probe, scan, or test the vulnerability of a system or network or to breach security or authentication measures without express authorization of the owner of the system or network.
+
+Interception: Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner of the system or network.
+
+Intentional Interference: Interference with service to any user, host, or network including, without limitation, mail bombing, news bombing, other flooding techniques, deliberate attempts to overload a system, or broadcast attacks.
+
+Modifications to Transmissions: Installation of any amplifiers, enhancers, repeaters, or other devices that modify, disrupt, or interfere in any way with the radio frequency licensed to us to provide Service.
+
+Our Responsibility
+We take no responsibility and assume no liability for any Content uploaded, transmitted, or downloaded by you or any third party, or for any mistakes, defamation, slander, libel, omissions, falsehoods, obscenity, pornography, or profanity you may encounter. As the provider of the STec Sites and Service, we are only a marketplace and are not liable for any statements, representations, or Content provided by our users in any public forum. It is not our objective to discourage you from taking controversial positions or expressing vigorously what may be unpopular views. However, we reserve the right to take such action as we deem appropriate in cases where the STec Sites or Service is used to disseminate statements which are offensive or harmful.
+
+Enforcement of this Policy 
+We reserve the right, but do not assume the obligation, to strictly enforce this Policy by, without limitation, issuing warnings, suspending, or terminating Service, refusing to transmit, removing, screening, or editing Content prior to delivery or actively investigating violations and prosecuting them in any court or appropriate venue. We may block access to certain categories of numbers (e.g. certain international destinations) or certain sites if, in our sole discretion, we are experiencing excessive billing, collection, fraud problems or other misuse of our network.
+
+We may access, use, and disclose transaction information about your use of our Service, and any Content transmitted by you via the STec Sites or through the Service, to the extent permitted by law, in order to comply with the law (e.g., a lawful subpoena); to enforce or apply our subscriber agreements; to initiate, render, bill, and collect for our Services; to protect our rights or property, or to protect users of our Services from fraudulent, abusive, or unlawful use of, or subscription to, our Service. INDIRECT OR ATTEMPTED VIOLATIONS OF THIS POLICY OR ANY RELATED POLICY, GUIDELINE OR AGREEMENT, AND ACTUAL OR ATTEMPTED VIOLATIONS BY A THIRD PARTY ON YOUR BEHALF SHALL BE CONSIDERED VIOLATIONS OF THIS POLICY BY YOU.
+
+Your Responsibility 
+You are solely liable for any transmissions you initiate through our Service or any Content you Disclose. Unless you are participating in an area of the STec Sites or Service that requires or allows anonymity, you will always use your real name in online communications. You agree to indemnify and hold us harmless from any claim, action, demand, loss, or damage (including attorneys’ fees) made or incurred by any third party arising out of or relating to your violation of this Policy.
+
+Updating this Policy 
+We will revise and update this Policy if our practices change, as technology changes, or as we add new services or change existing ones. If we make any material changes to this Policy, we will post an “update” notice to the STec Sites and change the date of the Policy. You should refer back to this page for the latest information and to be privy to your acceptable use obligations.
+
+Contacting Us 
+If you have any questions, comments, or concerns about this Policy, please write to us at:
+Super Technologies, Inc.
+P.O. Box 969
+Pensacola, FL 32595
+and follow up with an electronic email of the same to care@supertec.com
+
+ 
+
+PRIVACY POLICY
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+Issues related to privacy:
+1. We require certain documentation when using a credit card which assists us in matching the card’s billing information to the owner of the DIDX account. We wish to verify beyond a doubt the card is authorized for use by its owner.
+
+2. Certain governments require that those who use any phone number from their country must have on file certain identifying documents.
+
+3. Government agencies including police, attorney generals and more require certain identifying documents when there is evidence of some kind of crime or fraud with using the phone number/s. These inquiries are usually accompanied by a legal letter or document.
+
+Please also see our Documents Required section for #2 at Documents Required.
+
+ 
+
+SYSTEM ABUSE FRAUDULENT USAGE OF NUMBERS
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+DIDX has a system abuse department, which deals with cases where fraud and other abuses are suspected of any DIDX issued number. (DIDX ITSP buyer buys DID and resells to its customers. The end-user is the potential perpetrator.)
+
+DIDX VENDORS:
+If you are a DIDX vendor (seller) and have received a subpoena or a police inquiry about any number, do the following.
+
+1. Login to your DIDX account and go to the DIDINFO page of this DID number.
+
+2. Click on REQUEST END USER INFO button.
+
+3. It will ask you to upload the copy of the subpoena and any other information you may want to provide.
+
+4. This automates a notice to our care team to make a request of the DIDX ITSP buyer to provide information from its end-user who is using that DID. We make the request via ticket, phone call, email and sometimes IM. We make attempt after attempt to get the information for you. We cannot assure when we will get the answer.
+
+This information may include:
+End user name.
+Govt Issued id number and type
+Govt Issued ID copy
+Address:
+Alternate Contact Phone Number:
+Call Detail Records
+
+If you need to contact our abuse department please email to abuse@didx.net
+
+DIDX Buyers whose END USERS are suspect of fraud:
+DIDX at any given time may require the DIDX Buyer Member to provide End User subscriber information to DIDX which may include some or all of the following: full name, goverment issued ID such as passport, contact phone number, email address within 24 – 48 hours.
+
+This is to comply with government regulations in any given country of DID, i.e., 44 country code for UK in which law enforcement work to fight crime and abuse of DID by an end user.
+
+DIDX may not be able to provide a subpoena or warrant from the official government organization (i.e., FBI or Attorney General). When End User subscriber information is not provided to DIDX upon request to DIDX Buyer, DIDX has the right to close the service and in some case, the entire DIDX Buyer account.
+
+Please keep in mind that a majority of the use of DID, phone numbers, and telephony in general is legal, not criminal, and not abusive. A minority is the opposite. Just as the worst imaginable crimes are executed in the physical world, the worst are also committed online. But again, this is a minority.
+
+Please help us by complying with requests and any special documentation regarding DID. See more information in the https://www.didx.net/terms, https://www.didx.net/interop step 5 in the seller or buyer agreements, and at
+Documents Requirement
+
+ 
+
+MODE OF PAYMENTS
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+You can make payments Via PayPal,Money bookers,Credit card,Western Union or Wire Transfer.
+
+For other payment arrangement not listed please email us with your queries.
+
+For Western Union click on the link and follow the instructions:
+https://www.didx.net/wu/
+
+ 
+
+BECOME A DIDX CONSULTANT
+DIDX is always looking for ways to expand its partnerships around the world, We refer to these DIDX Partners when the users ask us for help in different fields.
+
+DIDX API Implementors
+
+DIDX Partners who can help companies integrate DIDX API inside their portals. To qualify for this partnership, you must have:
+
+1. A DIDX account.
+2. References from 2+ websites that you have already helped Integrate DIDX API inside their applications or portals, of which we can view.
+3. 1+ year old business entity.
+
+DIDX Switch Setup Integrators
+DIDX Partners who can help companies complete physical setup for sending a DID to the DIDX platform. To              qualify for this partnership you must have:1. A DIDX Account.
+2. References from 1 company with an ACTIVE SELLER’s account on DIDX.
+3. 1+ year old business entity.
+
+DIDX Govt Relations Consultants
+DIDX Partners who can help companies complete licenses and physical setup for sending a DID to DIDX                      Platform. To qualify for this partnership you must have:
+
+1. A DIDX Account.
+2. References from 1 company with which you consulted on getting a license from a specific government.
+3. Copy of this license.
+4. 5+ year telecom experience.
+
+If you wish to apply to any of these partnerships, please login to your account and contact us about it via the CONTACT US button
+
+ 
+
+DID INFO PER SPECIFIC COUNTRIES
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+UK DID numbers beginning with 0500, 0800, 0808
+In the UK, numbers starting “0500”, “0800” or “0808” are free. The range 0808 1570xxx is set aside for fictitious uses in TV and radio.
+
+Additionally, numbers in the range 0808 80xxxxx are reserved for not-for-profit helplines.
+
+Since Orange SA UK introduced charges for dialling freephone numbers in December 2005, all British mobile networks now charge for calls to freephone numbers, with certain limited exemptions (notably Childline).
+
+https://www.utilitywarehouse.co.uk/store/freephone.taf?exref=675932
+CallMe(0800) costs just £2 (plus VAT) per month, plus call charges. Each call is charged at 7.5p per Peak minute or 6.5p per off-peak minute. All calls are billed in seconds, not rounded up in minutes, with a minimum call charge of just 2p.
+
+Peak (per min) 7.5p
+Economy (per min) 6.5p
+Minimum call charge 2p
+Monthly rental £2
+Calls charged per second
+
+ 
+
+VENDOR RATING SYSTEM
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+ 
+
+What is vendor rating?
+Vendor rating is assigned by DIDX admins based on the quality and relationship between didx and the vendors.
+
+Determined by the quality of the vendor and the DID he is providing.
+
+If you are a Seller.
+
+The rating can be increased also by providing more information about the vendor to us. For example, the company tax returns, DUNS number, DUNS report, tax ID number, bank statements, and financial and vendor references.
+
+All this information is kept private. The above is part of the criteria for vendor rating.
+
+You can also provide more Numbers, the more numbers you provide the better vendor rating is provided to you.
+
+Ratings:
+Vendor Rating 1 Brand New or Not Recommended Vendors
+Vendor Rating 2 Relatively Better then 1
+Vendor Rating 3 Relatively Better then 2
+Vendor Rating 4 Not Highly Recommended but not so bad quality.
+Vendor Rating 5 Recommended Vendors
+Vendor Rating 6 Recommended Vendors
+Vendor Rating 7 Recommended Vendors
+
+Vendor Rating 8 Tier 1 Carriers like Verizon, Global Crossing, BEZK, Level 3, XO, BT
+
+Vendor Rating 9 and 10 – These are for vendors, that we have purchased DIDs for our internal usage, and the vendor does not allow us to re-sell these DIDs on didx.
+
+Related Topic:
+Why cant I buy Numbers from any rating
+Likeness rating from buyer for the vendor
+
+ 
+
+HOW TO BECOME AN AFFILIATE
+ 
+
+DIDx Knowledge Base => GLOSSARY
+=> STANDARD OPERATING PROCEDURES
+
+If you would like to become an Affiliate then please follow below steps,
+
+1) Signup on DIDX.Net
+
+2) Login into your account, click on PROFILE –> Affiliation
+
+3) Select the banner from drop down menu which you wish to show on your web site.
+
+4) Once you select the banner it will give you the code, copy that code and past it on your website .
+
+5) When ever customer click on Banner it will redirect it to signup page for DIDX.Net
+
+6)Once the customer signup and Activated there account then on every sales you will get 2% from the profit.
+
+You can check the Affiliate balance end of the month from REPORTS section .
