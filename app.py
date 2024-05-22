@@ -4,10 +4,12 @@ import os
 import time
 import re
 from openai import OpenAI
+import logging
+
 
 class Voice_call_bot:
     def __init__(self):
-        self.client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+        self.client = OpenAI(api_key=os.environ.get("openai_api_key"))
         self.assistant_id = "asst_6l4Tm14nWBhyz2LXYqrOjk9z"
 
         # Update the assistant
@@ -56,8 +58,10 @@ class Voice_call_bot:
         cleaned_text = re.sub('【.*?†.*】', '', messages_content.value)
         return cleaned_text
 
-# Initialize Flask application
 app = Flask(__name__)
+
+# Initialize logging
+logging.basicConfig(level=logging.INFO)
 
 # Initialize Voice_call_bot
 voice_bot = Voice_call_bot()
@@ -66,17 +70,17 @@ voice_bot = Voice_call_bot()
 def voice():
     response = VoiceResponse()
 
-    # Get the user's speech input from Twilio
-    if 'SpeechResult' in request.values:
-        user_speech = request.values['SpeechResult']
-        # Send the user's speech to Voice_call_bot
-        bot_response = voice_bot.user_chat(user_speech)
-        # Respond back to the user
-        response.say(bot_response)
-    else:
-        # Initial prompt
-        response.say("Hello! How can I help you today?")
-        response.listen()
+    try:
+        if 'SpeechResult' in request.values:
+            user_speech = request.values['SpeechResult']
+            bot_response = voice_bot.user_chat(user_speech)
+            response.say(bot_response)
+        else:
+            response.say("Hello! How can I help you today?")
+            response.listen()
+    except Exception as e:
+        logging.error(f"Error in /voice endpoint: {e}")
+        response.say("An error occurred. Please try again later.")
 
     return str(response)
 
