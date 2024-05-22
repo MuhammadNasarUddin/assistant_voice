@@ -1,7 +1,7 @@
 from flask import Flask, request
 from twilio.twiml.voice_response import VoiceResponse
 import openai
-from newvoicebot import Voice_call_bot
+from bot import Voice_call_bot
 
 
 
